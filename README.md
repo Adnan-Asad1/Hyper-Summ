@@ -61,7 +61,7 @@ Each algorithm is implemented in both **sequential** and **parallel** versions t
 - **Multi-core Utilization**: Leverages all available CPU cores for parallel processing
 - **NLTK Integration**: Professional-grade text preprocessing and tokenization
 
----
+----
 
 ## 📁 Project Structure
 
