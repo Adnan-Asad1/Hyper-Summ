@@ -354,7 +354,7 @@ This project is open-source and available under the MIT License.
 
 ## 📧 Contact
 
-For questions or suggestions, please open an issue or contact the team members.
+For questions or suggestions, please open an issue or contact the team members
 
 ---
 
