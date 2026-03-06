@@ -337,12 +337,6 @@ Both algorithms use **multiprocessing** to:
 
 ---
 
-## 👥 Team
-
-**Team Members:**
-- Adnan Asad
-- Shiraz Nadeem
-- Abdul Rehman
 
 **Course:** Parallel and Distributed Computing (PDC)  
 **Institution:** [Your Institution Name]
