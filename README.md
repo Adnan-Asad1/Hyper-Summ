@@ -20,7 +20,6 @@ A comprehensive text summarization system implementing both **TextRank** and **T
   - [Jupyter Notebook](#jupyter-notebook)
 - [Algorithms](#algorithms)
 - [Performance Metrics](#performance-metrics)
-- [Team](#team)
 - [License](#license)
 
 ---
