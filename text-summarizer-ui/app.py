@@ -21,8 +21,8 @@ CORS(app)
 try:
     nltk.data.find('tokenizers/punkt')
 except LookupError:
-    nltk.download('punkt', quiet=True)
-    nltk.download('stopwords', quiet=True)
+    nltk.download('punkt')
+    nltk.download('stopwords')
 
 # Initialize summarizers
 summarizers = {
